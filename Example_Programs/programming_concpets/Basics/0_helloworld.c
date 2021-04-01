@@ -19,5 +19,5 @@ int main()
     int a = 10;
 
     int sum =20;
-    printf("Welcome to STEPin\n i am pramanik");
+    printf("Welcome to STEPin\n");
 }
